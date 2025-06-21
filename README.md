@@ -1,3 +1,5 @@
+🔐 Project: RSA Key Generator + Encrypt/Decrypt CLI
+
 Features :
 
     Generate public/private key pair
