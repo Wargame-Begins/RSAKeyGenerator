@@ -1,4 +1,4 @@
-🔐 Project: RSA Key Generator + Encrypt/Decrypt CLI
+🔐 Project: RSA Key Generator + Encrypt/Decrypt CLI  ( TypeScript )
 
 Features :
 
